@@ -6,4 +6,4 @@
 
 [Go to the issues tab](https://github.com/leavemealone-app/roadmap/issues) to submit bugs and feature requests.
 
-[View the kanban board here](https://github.com/leavemealone-app/roadmap/projects/1) to see progress.
+[View the kanban board here](https://github.com/orgs/leavemealone-app/projects/1) to see progress.
